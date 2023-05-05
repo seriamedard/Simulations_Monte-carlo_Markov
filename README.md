@@ -13,5 +13,5 @@ Ce travail consiste à implémenter les algorithmes de simulations de données.
 3. Installer les dépendances du fichier *requirements.txt*
 4. Lancer le notebook **modelisation.ipynb**
 
-__author__ = 'Medard Seria'
-__credits__ = 'Mhamed Mesfiou'
+*__author__ = 'Medard Seria'
+*__credits__ = 'Mhamed Mesfiou'
